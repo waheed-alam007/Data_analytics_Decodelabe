@@ -1,5 +1,5 @@
-Data Analytics Project 2 – Exploratory Data Analysis (EDA)
-Overview
+#Data Analytics Project 2 – Exploratory Data Analysis (EDA)
+##Overview
 
 This project focuses on performing Exploratory Data Analysis (EDA) on a cleaned e-commerce dataset to uncover patterns, trends, and insights for better decision-making.
 
