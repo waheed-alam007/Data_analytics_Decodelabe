@@ -33,11 +33,10 @@ To improve data quality by:
 * Pandas
 * Google Colab
 * Excel
-
 ## Project Outcome
 Generated a fully cleaned and analysis-ready dataset suitable for downstream analytics and reporting.
-
-##Data Analytics Project 2 – Exploratory Data Analysis (EDA) ##Overview
+##Data Analytics Project 2 – Exploratory Data Analysis (EDA)
+##Overview
 
 This project focuses on performing Exploratory Data Analysis (EDA) on a cleaned e-commerce dataset to uncover patterns, trends, and insights for better decision-making.
 
