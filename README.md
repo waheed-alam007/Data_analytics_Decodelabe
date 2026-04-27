@@ -89,5 +89,62 @@ This project focuses on extracting insights from an e-commerce dataset using SQL
 ## Outcome
 
 Successfully used SQL queries to extract actionable insights from raw data, demonstrating strong data querying and analytical skills.
+## Data Analytics Project 4
+## Overview
+
+This project focuses on transforming raw e-commerce data into meaningful insights using data visualization techniques. The goal is not just to create charts, but to tell a clear data-driven story that supports business decision-making.
+
+## Objectives
+Analyze sales performance across different products
+Identify trends over time
+Understand customer payment preferences
+Evaluate order status distribution
+Discover relationships between key variables
+ Tools & Technologies
+Python
+Pandas
+Matplotlib
+Seaborn
+Google Colab
+ Dataset
+
+The dataset contains cleaned e-commerce transaction data, including:
+
+## Product details
+Sales and profit information
+Order status
+Payment methods
+Transaction dates
+Key Analysis Performed
+1. Product Sales Analysis
+
+A bar chart was used to identify top-performing products based on total revenue.
+
+2. Sales Trend Over Time
+
+A line chart highlighted how sales changed over different years, helping to identify growth patterns.
+
+3. Payment Method Insights
+
+Bar charts were used to understand customer preferences for different payment methods.
+
+4. Order Status Distribution
+
+Analysis of order status helped identify delivery success rates and potential operational issues.
+
+5. Relationship Analysis
+
+A scatter plot showed the relationship between quantity and total price, confirming expected business behavior.
+
+## Key Insights
+Certain products contribute significantly more to total revenue.
+Sales show a noticeable trend over time, indicating business growth opportunities.
+Customers prefer specific payment methods, which businesses should prioritize.
+Order status analysis reveals areas for operational improvement.
+A strong positive relationship exists between quantity and total price.
+## Conclusion
+This project demonstrates how effective data visualization can transform raw data into actionable insights. It highlights the importance of choosing the right charts and focusing on storytelling to support better business decisions.
+
+
 ## Author
 Waheed Alam
